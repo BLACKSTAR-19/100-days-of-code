@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: January 01, 2022
 ##### (delete me or comment me out)
 
 **Today's Progress**: Brushed up my concepts about Finite Automaton & Finite State Machine
